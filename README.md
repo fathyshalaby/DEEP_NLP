@@ -1,2 +1,2 @@
-# Deep_NLP
-This is a collection of Jupyter Notebooks which solve some common tasks of Deep NLP
+# Deep NLP
+These are some Deep learning in Natural Language Processing example notebooks
